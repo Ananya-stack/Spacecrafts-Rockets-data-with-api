@@ -1,0 +1,30 @@
+.navbars{
+    background-image: url(../../public/backgrounds.jpg)!important;
+    width: auto;
+}
+
+/* .nav-contents{
+    color: rgb(255, 255, 255)!important;
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+} */
+.nav-content{
+    color: rgb(255, 255, 255)!important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding-top: 26px!important;
+}
+.page{
+    padding-top: 140px;
+    padding-bottom: 430px;
+}
+.heading{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 90px;
+    padding-bottom: 140px;
+}
+.copyright{
+    padding: 20px auto 20px auto!important;
+}
